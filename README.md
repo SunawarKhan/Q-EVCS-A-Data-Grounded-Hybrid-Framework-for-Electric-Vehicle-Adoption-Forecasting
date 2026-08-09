@@ -93,7 +93,7 @@ If you use this work, please cite it as:
 
 ```bibtex
 @misc{khan_qevcs_2026,
-  author       = {Sunawar Khan},
+  author       = {Sunawar Khan, Habib Hamam},
   title        = {Q-EVCS+ v2: A Reproducible Pipeline for Quantum-Enhanced
                   EV Charging Station Analysis},
   year         = {2026},
