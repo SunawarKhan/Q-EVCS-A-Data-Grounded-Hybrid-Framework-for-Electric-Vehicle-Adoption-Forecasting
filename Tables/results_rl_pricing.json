@@ -1,0 +1,86 @@
+{
+  "reward_structure": {
+    "-0.6": {
+      "revenue_argmax": 0.562425,
+      "band_position": 0.9165,
+      "gain_over_pricing_at_cap": 0.4464267857142934
+    },
+    "-1.0": {
+      "revenue_argmax": 0.4125749999999999,
+      "band_position": 0.5834999999999998,
+      "gain_over_pricing_at_cap": 26.041662499999994
+    },
+    "-1.5": {
+      "revenue_argmax": 0.337425,
+      "band_position": 0.4165,
+      "gain_over_pricing_at_cap": 153.12498750000003
+    },
+    "-2.0": {
+      "revenue_argmax": 0.300075,
+      "band_position": 0.3335,
+      "gain_over_pricing_at_cap": 300.43271858306593
+    },
+    "-3.0": {
+      "revenue_argmax": 0.26249999999999996,
+      "band_position": 0.24999999999999994,
+      "gain_over_pricing_at_cap": 359.87197898973847
+    }
+  },
+  "eta_headline": -0.6,
+  "rl_algorithm": "REINFORCE (linear-Gaussian policy, linear baseline)",
+  "rev_agent": 3.8946236921942865,
+  "rev_tou": 2.9513112214026167,
+  "rev_rtp": 3.8449998312184563,
+  "rev_gain_vs_tou": 31.962487180303494,
+  "rev_gain_vs_rtp": 1.290607624294867,
+  "var_reduction_vs_tou": 30.703153337590106,
+  "var_reduction_vs_rtp": -33.15668668388111,
+  "waste_change_vs_tou": -3.807697935728207,
+  "ucost_agent": 0.4250540023292911,
+  "ucost_tou": 0.2225,
+  "ucost_change_vs_tou": -91.03550666484992,
+  "price_solar_corr": -0.9503396652582627,
+  "frac_of_hours_within_5pct_of_cap": 0.0,
+  "elasticity_sweep": {
+    "-0.6": {
+      "rev_gain_vs_tou": 31.962487180303494,
+      "var_reduction_vs_tou": 30.703153337590106,
+      "mean_tariff": 0.4250540023292911,
+      "price_solar_corr": -0.9503396652582627,
+      "revenue_argmax": 0.562425,
+      "band_position": 0.9165
+    },
+    "-1.0": {
+      "rev_gain_vs_tou": 10.469183173469943,
+      "var_reduction_vs_tou": -1.358364724812462,
+      "mean_tariff": 0.318181282224181,
+      "price_solar_corr": -0.9373435649727572,
+      "revenue_argmax": 0.4125749999999999,
+      "band_position": 0.5834999999999998
+    },
+    "-1.5": {
+      "rev_gain_vs_tou": 1.9997028430721697,
+      "var_reduction_vs_tou": -48.726648011764034,
+      "mean_tariff": 0.25465590018779616,
+      "price_solar_corr": -0.9306937844971253,
+      "revenue_argmax": 0.337425,
+      "band_position": 0.4165
+    },
+    "-2.0": {
+      "rev_gain_vs_tou": -0.13131164368628354,
+      "var_reduction_vs_tou": -91.18848940584718,
+      "mean_tariff": 0.2246936519624917,
+      "price_solar_corr": -0.9195269353570888,
+      "revenue_argmax": 0.300075,
+      "band_position": 0.3335
+    },
+    "-3.0": {
+      "rev_gain_vs_tou": 3.3554976865673325,
+      "var_reduction_vs_tou": -137.71772546566464,
+      "mean_tariff": 0.2009619588409257,
+      "price_solar_corr": -0.8979301814683024,
+      "revenue_argmax": 0.26249999999999996,
+      "band_position": 0.24999999999999994
+    }
+  }
+}
