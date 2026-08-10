@@ -1,4 +1,4 @@
-# Q-EVCS+ v2 — Reproducible Pipeline
+# QQ-EVCS+: A Data-Grounded Hybrid Framework for Electric-Vehicle Adoption Forecasting, Quantum-Enhanced Optimization, and Dynamic Charging Management
 
 A single, self-contained Google Colab notebook that reproduces **every data figure and table** in the *Q-EVCS+ v2* study — from the raw Washington State EV registration dataset through forecasting, a variational quantum classifier, metaheuristic optimisation, dynamic pricing, and charger allocation.
 
